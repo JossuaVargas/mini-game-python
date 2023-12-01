@@ -15,6 +15,7 @@
 			"settings": {},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker"
+				,"GitHub.copilot"
 			]
 		}
 	},
